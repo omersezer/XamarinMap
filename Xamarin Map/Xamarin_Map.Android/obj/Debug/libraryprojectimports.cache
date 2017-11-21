@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>c:\users\omersezer\documents\visual studio 2017\Projects\Xamarin Map\Xamarin Map\Xamarin_Map.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Animated.Vector.Drawable\library_project_imports\bin\classes.jar;c:\users\omersezer\documents\visual studio 2017\Projects\Xamarin Map\Xamarin Map\Xamarin_Map.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Annotations\library_project_imports\support-annotations.jar;c:\users\omersezer\documents\visual studio 2017\Projects\Xamarin Map\Xamarin Map\Xamarin_Map.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Compat\library_project_imports\bin\classes.jar;c:\users\omersezer\documents\visual studio 2017\Projects\Xamarin Map\Xamarin Map\Xamarin_Map.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Core.UI\library_project_imports\bin\classes.jar;c:\users\omersezer\documents\visual studio 2017\Projects\Xamarin Map\Xamarin Map\Xamarin_Map.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Core.Utils\library_project_imports\bin\classes.jar;c:\users\omersezer\documents\visual studio 2017\Projects\Xamarin Map\Xamarin Map\Xamarin_Map.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Design\library_project_imports\bin\classes.jar;c:\users\omersezer\documents\visual studio 2017\Projects\Xamarin Map\Xamarin Map\Xamarin_Map.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Fragment\library_project_imports\bin\classes.jar;c:\users\omersezer\documents\visual studio 2017\Projects\Xamarin Map\Xamarin Map\Xamarin_Map.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Media.Compat\library_project_imports\bin\classes.jar;c:\users\omersezer\documents\visual studio 2017\Projects\Xamarin Map\Xamarin Map\Xamarin_Map.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v4\library_project_imports\bin\classes.jar</Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>c:\users\omersezer\documents\visual studio 2017\Projects\Xamarin Map\Xamarin Map\Xamarin_Map.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Design\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>c:\users\omersezer\documents\visual studio 2017\Projects\Xamarin Map\Xamarin Map\Xamarin_Map.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v4\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Android.Support.v4\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>c:\users\omersezer\documents\visual studio 2017\Projects\Xamarin Map\Xamarin Map\Xamarin_Map.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Design.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>c:\users\omersezer\documents\visual studio 2017\Projects\Xamarin Map\Xamarin Map\Xamarin_Map.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v4.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
