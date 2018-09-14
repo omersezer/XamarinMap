@@ -13,7 +13,7 @@ namespace Xamarin_Map
         {
             InitializeComponent();
 
-            MainPage = new Xamarin_Map.MainPage();
+            MainPage = new Xamarin_Map.Views.MapPage();
         }
 
         protected override void OnStart()

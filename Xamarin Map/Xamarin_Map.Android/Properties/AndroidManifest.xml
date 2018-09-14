@@ -1,5 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.Xamarin_Map">
-	<uses-sdk android:minSdkVersion="15" />
-	<application android:label="Xamarin_Map.Android"></application>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.Xamarin_Map" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="15" android:targetSdkVersion="27" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+	<uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+	<uses-permission android:name="android.permission.CONTROL_LOCATION_UPDATES" />
+	<uses-permission android:name="android.permission.INSTALL_LOCATION_PROVIDER" />
+	<uses-permission android:name="android.permission.LOCATION_HARDWARE" />
+	<application android:label="Xamarin_Map.Android">
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyBf3tEmdR18S-2v0E1i1x0oqcXJ9imntT4" />
+	</application>
 </manifest>
